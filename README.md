@@ -18,16 +18,12 @@ A través de ejemplos prácticos desarrollados en Python.
 
 El repositorio se encuentra organizado de la siguiente manera:
 
-02_funciones
-03_arreglos
-04_estructuras_control
 05_POO
-│
-├── abstraccion.py
-├── encapsulacion.py
-├── herencia.py
-├── polimorfismo.py
-├── ejemplo_POO.py
+- abstraccion.py
+- encapsulacion.py
+- herencia.py
+- polimorfismo.py
+- ejemplo_POO.py
 
 ## Descripción de la carpeta principal (05_POO)
 
