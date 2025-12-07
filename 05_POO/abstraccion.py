@@ -1,6 +1,6 @@
 # Ejemplo de ABSTRACCIÓN
 # Técnica: Abstracción
-# Autor: Jenny213-mn
+# Autor: Jenny Manzano
 
 from abc import ABC, abstractmethod
 
