@@ -1,4 +1,4 @@
-Repositorio de Técnicas de Programación
+## Repositorio de Técnicas de Programación
 
 Este repositorio contiene ejemplos prácticos de código desarrollados como parte de la asignatura Programación orientada a objetos, con el objetivo de aplicar correctamente los conceptos aprendidos en clase y fortalecer las habilidades de programación mediante ejercicios organizados por técnica.
 
